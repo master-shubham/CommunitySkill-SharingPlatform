@@ -89,6 +89,9 @@ export default defineConfig([
 - 🔐 Authentication & Authorization (JWT, protected routes)
 - 📝 Skill Profiles: Users can list skills they offer and skills they want to learn
 - 🔍 Skill Matching: Smart logic to connect learners with mentors
-- 💬 Community Interaction: Messaging, notifications, and collaboration tools
+- 📁 Profile management: manage the user profile
 - 📊 Analytics Dashboard: Track skill trends and engagemen
 
+## Project Status
+
+🚧 In Development (Day 1 Complete)
